@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a table listing the contents and files related
+  to each chapter in Part II.
 learning_resource_types:
 - Online Textbooks
 ocw_type: SupplementalResourceSection
